@@ -2,14 +2,12 @@
 
 Custom-game packs by **TriTran** for [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/).
 
-This repo has **two** mods. Pick one:
+This repo has **two** mods pack. Pick one:
 
 | Folder | What you get |
 | ------ | ------------ |
 | **[`Tris-Original`](./Tris-Original)** | **Cosmetics + stash UI only.** Wings/outfit medals and X-Mod expanded stash/windows. Vanilla leveling, devotion, XP, bounties, and combat. |
 | **[`Tris`](./Tris)** | Full QoL pack (Faster Leveling features, progression, farming, bounty reputation, **plus** the same wings and X-Mod UI). |
-
-> Do not overwrite the original `Faster Leveling (L)` folder.
 
 ---
 
