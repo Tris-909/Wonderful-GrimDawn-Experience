@@ -2,11 +2,6 @@
 
 Custom-game QoL pack by **TriTran** for [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/).
 
-The playable mod lives in the [`Tris`](./Tris) folder — a fork of **Faster Leveling (L)** with extra progression, UI, combat QoL, bounty reputation, and cosmetic wings.
-
-> In-game: **Custom Game → Tris**  
-> Do not overwrite the original `Faster Leveling (L)` folder.
-
 ---
 
 ## Features
