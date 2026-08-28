@@ -2,7 +2,7 @@
 
 A **Custom Game** QoL / farming mod for [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/), built as a fork of **Faster Leveling (L)** with extra progression, UI, and combat quality-of-life.
 
-> Launch via **Custom Game → Tris - Copy**. Do not overwrite the original `Faster Leveling (L)` or `Tris` folders.
+> Launch via **Custom Game → Tris**. Do not overwrite the original `Faster Leveling (L)` folder.
 
 ---
 
@@ -47,14 +47,14 @@ A **Custom Game** QoL / farming mod for [Grim Dawn](https://store.steampowered.c
   - From **Respected → Revered**: about **10 bounties** (~2 sessions at 5 per session)
 - **Kymon’s Chosen / Order of Death’s Vigil** stay exclusive — the side you didn’t pick remains hostile
 
-### Cosmetics (from the `test` wing mod)
+### Wings & cosmetics
 
 Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D wing FX. Equip the medal, or apply it as a **Medal Illusion**.
 
-- **50** cosmetic medals (Pride, Aion, Kayle, Inarius, Nightfall, TLI robe, and the rest), plus Katana / Chillrend / Chaos Eater weapon meshes
-- Craft them at the **Devil’s Crossing blacksmiths** (Master or Apprentice): 1 healing potion + 10 iron bits, same recipe the test mod used for Pride / Aion
-- Vanilla blacksmith weapon crafts are unchanged; only extra formulas were added
-- Names live in `tags_test_cosmetics.txt` (`tagPrideWings`, `tagTlirobe`, …)
+- **50+** cosmetic medals (Pride, Aion, Kayle, Inarius, Nightfall, TLI robe, and the rest), plus Katana / Chillrend / Chaos Eater weapon meshes
+- Craft them at the **Devil’s Crossing blacksmiths** (Master or Apprentice): **1 healing potion + 10 iron bits**. Vanilla weapon recipes are unchanged
+- Or talk to **Rook** (door guard) at Devil’s Crossing and choose **Give me the wings** / **Give me the rest of the wings**
+- Pack source: [cosmetic wings on the Crate forums](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190)
 
 ---
 
@@ -63,10 +63,10 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 1. Place this folder at:
 
    ```text
-   <Grim Dawn>\mods\Tris - Copy
+   <Grim Dawn>\mods\Tris
    ```
 
-2. Start Grim Dawn → **Custom Game** → select **Tris - Copy**
+2. Start Grim Dawn → **Custom Game** → select **Tris**
 
 3. Optional UI textures: if X-Mod icons are missing, unpack / place `x-mod` textures under:
 
@@ -81,7 +81,7 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 Custom Game stashes are **separate** from vanilla, from Faster Leveling (L), and from the main `Tris` folder:
 
 ```text
-Documents\My Games\Grim Dawn\save\Tris - Copy\
+Documents\My Games\Grim Dawn\save\Tris\
 ```
 
 Shared transfer stash is typically `transfer.gst` in that folder. Steam Cloud may also mirror under `userdata\...\219990\remote\save`.
@@ -101,4 +101,4 @@ Shared transfer stash is typically `transfer.gst` in that folder. Steam Cloud ma
 - Base QoL pack: **Faster Leveling (L)**
 - Expanded UI: **X-Mod / Grim UI**
 - Additional Tris changes: progression caps, boss respawn, regen nerfs, bounty reputation tuning, Kymon/Order exclusivity, UI fit tweaks
-- Wing / cosmetic medals: the `test` Asset Manager pack (meshes, FX, and blacksmith formulas)
+- Wing / cosmetic medals: [cosmetic wings pack](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190) (meshes, FX, and blacksmith formulas)
