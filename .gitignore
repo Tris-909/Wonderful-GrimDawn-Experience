@@ -1,0 +1,11 @@
+﻿# Backups / junk
+*.bak
+*.bak_*
+**/*.bak*
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Alternate / WIP database dumps
+Tris/database/*Copy*
+Tris/database/*WIP*
