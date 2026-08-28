@@ -1,4 +1,4 @@
-# Wonderful Grim Dawn ExperiencE
+# Wonderful Grim Dawn Experience by TriTran
 
 ---
 
@@ -40,6 +40,10 @@
   - From **Respected → Revered**: about **10 bounties** (~2 sessions at 5 per session)
 
 ---
+
+### Wings
+
+- Add more than 50 wings thank to https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190 
 
 ## Install
 
