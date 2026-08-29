@@ -22,6 +22,7 @@ Wing / cape / robe looks are **medals**. Equip the medal, or apply it as a **Med
 - **50+** cosmetic medals (Pride, Aion, Kayle, Inarius, Nightfall, TLI robe, and the rest), plus Katana / Chillrend / Chaos Eater
 - Craft at the **Devil’s Crossing blacksmiths** (Master or Apprentice): **1 healing potion + 10 iron bits**
 - Or talk to **Rook** (prison-gate door guard) in Devil’s Crossing and choose **Give me the wings** / **Give me the rest of the wings**
+- These cosmetics sell to vendors for **1 iron bit**. They keep the Legendary name color; they are looks, not a bits farm
 
 ### Stash & UI
 
@@ -82,7 +83,7 @@ The playable full mod lives in [`Tris`](./Tris) — a fork of **Faster Leveling 
 - **Max level** raised to **100**
 - **Devotion cap** raised to **60**
 - **Elite / Ultimate XP** tuned upward (Elite uses a stronger XP curve; Ultimate higher still)
-- **Shrines / totems** biased toward stronger epic–legendary outcomes
+- **Shrines / totems** biased toward stronger epic–legendary outcomes; cleansed devotion shrines give **1** point
 
 ### Stash & UI
 
@@ -120,7 +121,7 @@ The playable full mod lives in [`Tris`](./Tris) — a fork of **Faster Leveling 
 
 ### Wings & cosmetics
 
-Same medals and obtain methods as **Tris-Original** (blacksmith crafts and Rook).
+Same medals and obtain methods as **Tris-Original** (blacksmith crafts and Rook). Same **1 iron bit** vendor price.
 
 Cosmetic meshes and FX come from the [Crate forums cosmetic wings pack](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190).
 

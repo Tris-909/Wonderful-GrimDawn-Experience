@@ -24,7 +24,7 @@ A **Custom Game** QoL / farming mod for [Grim Dawn](https://store.steampowered.c
 - **Max level** raised to **100**
 - **Devotion cap** raised to **60**
 - **Elite / Ultimate XP** tuned upward (Elite uses a stronger XP curve; Ultimate higher still)
-- **Shrines / totems** biased toward stronger epic–legendary outcomes
+- **Shrines / totems** biased toward stronger epic–legendary outcomes; cleansed devotion shrines give **1** point
 
 ### Stash & UI
 
@@ -67,6 +67,7 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 - **50+** cosmetic medals (Pride, Aion, Kayle, Inarius, Nightfall, TLI robe, and the rest), plus Katana / Chillrend / Chaos Eater weapon meshes
 - Craft them at the **Devil’s Crossing blacksmiths** (Master or Apprentice): **1 healing potion + 10 iron bits**. Vanilla weapon recipes are unchanged
 - Or talk to **Rook** (door guard) at Devil’s Crossing and choose **Give me the wings** / **Give me the rest of the wings**
+- These cosmetics sell to vendors for **1 iron bit**. They keep the Legendary name color; they are looks, not a bits farm
 - Pack source: [cosmetic wings on the Crate forums](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190)
 
 ---

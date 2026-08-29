@@ -17,6 +17,7 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 - **50+** cosmetic medals (Pride, Aion, Kayle, Inarius, Nightfall, TLI robe, and the rest), plus Katana / Chillrend / Chaos Eater
 - Craft them at the **Devil’s Crossing blacksmiths** (Master or Apprentice): **1 healing potion + 10 iron bits**
 - Or talk to **Rook** (door guard) at Devil’s Crossing and choose **Give me the wings** / **Give me the rest of the wings**
+- These cosmetics sell to vendors for **1 iron bit**. They keep the Legendary name color; they are looks, not a bits farm
 - Vanilla blacksmith weapon recipes are unchanged; only extra cosmetic formulas were added
 
 ### Stash & UI
