@@ -31,8 +31,10 @@ A **Custom Game** QoL / farming mod for [Grim Dawn](https://store.steampowered.c
 - Shared **transfer stash** (Smuggler / caravan) with Tris-tuned layout
 - Transfer tab unlock costs kept at **vanilla** prices
 - **X-Mod / Grim UI** integrated — expanded Character, Smuggler, Factions, Transmuter, Map, and Quest windows
+- **HUD** (HP/MP orbs and skill bar) is **1.4× vanilla** so it stays readable when UI Scale is lowered for X-Mod
+- **NPC conversation** and **quest-reward** dialogs are **1.4×**, including the text inside
 
-> **Tip:** Set **UI Scale** to default (left). Max UI Scale will clip X-Mod layouts.
+> **Tip:** Set **UI Scale** to default (left). Max UI Scale will clip X-Mod layouts. HUD and dialog size are already raised in the mod; you do not need to raise Scale for those.
 
 ### Combat & farming
 
@@ -111,5 +113,5 @@ Shared transfer stash is typically `transfer.gst` in that folder. Steam Cloud ma
 
 - Base QoL pack: **Faster Leveling (L)**
 - Expanded UI: **X-Mod / Grim UI**
-- Additional Tris changes: progression caps, Normal HP/damage, pack density, boss respawn, regen nerfs, bounty reputation tuning, Kymon/Order exclusivity, UI fit tweaks
+- Additional Tris changes: progression caps, Normal HP/damage, pack density, boss respawn, regen nerfs, bounty reputation tuning, Kymon/Order exclusivity, 1.4× HUD and dialog
 - Wing / cosmetic medals: [cosmetic wings pack](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190) (meshes, FX, and blacksmith formulas)

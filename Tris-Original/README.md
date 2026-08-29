@@ -22,8 +22,9 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 ### Stash & UI
 
 - **X-Mod / Grim UI** — expanded Character, Smuggler, Factions, Transmuter, Map, and Quest windows
+- **HUD** (HP/MP orbs and skill bar) is **1.4× vanilla** so it stays readable when UI Scale is lowered for X-Mod
 
-> **Tip:** Set **UI Scale** to default (left). Max UI Scale will clip X-Mod layouts.
+> **Tip:** Set **UI Scale** to default (left). Max UI Scale will clip X-Mod layouts. HUD size is already raised in the mod; you do not need to raise Scale for the orbs and skill bar.
 
 ---
 
@@ -70,5 +71,5 @@ Documents\My Games\Grim Dawn\save\Tris-Original\
 
 ## Credits
 
-- Expanded UI: **X-Mod / Grim UI**
+- Expanded UI: **X-Mod / Grim UI**, plus 1.4× HUD
 - Wing / cosmetic medals: [cosmetic wings pack](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190)
