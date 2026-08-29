@@ -89,6 +89,14 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
 
 ---
 
+## Updating (keep your character)
+
+Overwrite `mods\Tris` with the new download. Keep the folder name **`Tris`**. Quit the game first, then Custom Game → Tris.
+
+Your character stays in `Documents\My Games\Grim Dawn\save\user\`. Stash files stay in `Documents\My Games\Grim Dawn\save\Tris\`. Do not install a new copy as `Tris2` / `Tris-new` or you will get an empty stash.
+
+---
+
 ## Saves & stash
 
 Custom Game stashes are **separate** from vanilla, from Faster Leveling (L), and from the main `Tris` folder:

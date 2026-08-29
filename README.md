@@ -142,6 +142,36 @@ Documents\My Games\Grim Dawn\save\Tris\
 
 ---
 
+## Updating Tris (keep your character)
+
+New GitHub versions of **Tris** are still the same Custom Game. You do **not** start a new hero if you overwrite the same folder.
+
+1. **Quit Grim Dawn** completely (not just to the menu).
+2. Download the latest repo (or clone/pull).
+3. Copy the `Tris` folder over the old one, so it stays exactly:
+
+   ```text
+   <Grim Dawn>\mods\Tris
+   ```
+
+   Keep the folder name **`Tris`**. Do not install as `Tris2`, `Tris-new`, or similar.
+4. Start Grim Dawn → **Custom Game** → **Tris** → pick your character.
+
+Your hero lives in `Documents\My Games\Grim Dawn\save\user\` (for example `user\_GodBlade\player.gdc`). The Smuggler stash and related files live in `Documents\My Games\Grim Dawn\save\Tris\`. Updating the mod does not replace those folders.
+
+Optional backup before you overwrite the mod:
+
+```text
+Documents\My Games\Grim Dawn\save\user\
+Documents\My Games\Grim Dawn\save\Tris\
+```
+
+**Same idea for Tris-Original:** overwrite `mods\Tris-Original` and keep that name. Characters are in `save\user\`; stash is in `save\Tris-Original\`.
+
+If you ever installed the pack under a **different** folder name, copy the stash files (`transfer.gst`, `reagents.gst`, `formulas.gst`, `transmutes.gst`) from that name’s save folder into `save\Tris\`, then launch **Custom Game → Tris**.
+
+---
+
 ## Notes
 
 - Custom Game stashes are **separate** from vanilla, from Faster Leveling (L), and from each other (`Tris` vs `Tris-Original`)

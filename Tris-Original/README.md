@@ -57,6 +57,8 @@ Wing / cape / robe looks are **medals**: an invisible medal mesh attaches the 3D
    Documents\My Games\Grim Dawn\Settings\x-mod\
    ```
 
+To update later: overwrite this folder, keep the name **`Tris-Original`**. Your character stays in `save\user\`; stash stays in `save\Tris-Original\`.
+
 ---
 
 ## Saves
