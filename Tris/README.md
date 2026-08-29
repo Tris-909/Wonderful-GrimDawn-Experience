@@ -36,9 +36,20 @@ A **Custom Game** QoL / farming mod for [Grim Dawn](https://store.steampowered.c
 
 ### Combat & farming
 
+- **Normal only:** all monsters and bosses (base game + DLCs) have **+50% HP** and **+20% damage**
+- **Pack density (all difficulties):** **+50% extra mobs** in a pack on Normal, Veteran, Elite, and Ultimate. Story bosses stay one copy
 - **Boss Respawn Count** skill — cycle **Off → 1–10** (default **Off**)
   - Disabled in Shattered Realm / Endless Dungeon
 - **Monster regen / heal nerf** — global regen/leech heavily reduced; many non-player heals cut
+
+### Difficulty at a glance
+
+| Mode | Monster HP | Monster damage | Pack density | XP |
+| ---- | ---------- | -------------- | ------------ | -- |
+| **Normal** | +50% vs vanilla | +20% vs vanilla | +50% extra mobs | N |
+| **Veteran** | Normal + Veteran overlay | Normal + Veteran overlay | +50% extra mobs | N × 1.1 |
+| **Elite** | Vanilla | Vanilla | +50% extra mobs | N^1.06 + 40 |
+| **Ultimate** | Vanilla | Vanilla | +50% extra mobs | N^1.12 + 80 |
 
 ### Factions & bounties
 
@@ -100,5 +111,5 @@ Shared transfer stash is typically `transfer.gst` in that folder. Steam Cloud ma
 
 - Base QoL pack: **Faster Leveling (L)**
 - Expanded UI: **X-Mod / Grim UI**
-- Additional Tris changes: progression caps, boss respawn, regen nerfs, bounty reputation tuning, Kymon/Order exclusivity, UI fit tweaks
+- Additional Tris changes: progression caps, Normal HP/damage, pack density, boss respawn, regen nerfs, bounty reputation tuning, Kymon/Order exclusivity, UI fit tweaks
 - Wing / cosmetic medals: [cosmetic wings pack](https://forums.crateentertainment.com/t/cosmetic-wings-inarius-wings/51190) (meshes, FX, and blacksmith formulas)
